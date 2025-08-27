@@ -1,7 +1,10 @@
 ## Oie! Sou o Gustavo, prazer!👋
 
-[![gudeaguiar's GitHub stats](https://github-readme-stats.vercel.app/api?username=gudeaguiar\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff\&hide=issues\&show_icons=true\&rank_icon=github)](https://github.com/gudeaguiar/github-readme-stats)
+##
+
 <p align="center">
+[![gudeaguiar's GitHub stats](https://github-readme-stats.vercel.app/api?username=gudeaguiar\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff\&hide=issues\&show_icons=true\&rank_icon=github)](https://github.com/gudeaguiar/github-readme-stats)
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gudeaguiar&layout=compact&theme=github_dark" width="350"/>
 </p>
 
