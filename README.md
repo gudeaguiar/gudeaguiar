@@ -1,6 +1,6 @@
 ## Oie! Sou o Gustavo, prazer!👋
 
-[![gudeaguiar's GitHub stats](https://github-readme-stats.vercel.app/api?username=gudeaguiar&show_icons=true&theme=dark#gh-dark-mode-onlyshow_icons=true&theme=dracula)](https://github.com/gudeaguiar/github-readme-stats)
+[![gudeaguiar's GitHub stats](https://github-readme-stats.vercel.app/api?username=gudeaguiar\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff\&hide=issues\&show_icons=true)](https://github.com/gudeaguiar/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
