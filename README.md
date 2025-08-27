@@ -1,6 +1,6 @@
 ## Oie! Sou o Gustavo, prazer!👋
 
-[![gudeaguiar's GitHub stats](https://github-readme-stats.vercel.app/api?username=gudeaguiar\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff\&hide=issues\&show_icons=true)](https://github.com/gudeaguiar/github-readme-stats)
+[![gudeaguiar's GitHub stats](https://github-readme-stats.vercel.app/api?username=gudeaguiar\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff\&hide=issues\&show_icons=true\&rank_icon=github)](https://github.com/gudeaguiar/github-readme-stats)
 
 ##
 
